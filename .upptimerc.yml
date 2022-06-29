@@ -21,8 +21,6 @@ sites:
     url: https://courses24maker.24heures.org
   - name: Assomaker
     url: https://assomaker.24heures.org
-  - name: test
-    url: https://test.24heures.org
 
 assignees: # Users to assign downtime issues (optional)
   - titouan-joseph
