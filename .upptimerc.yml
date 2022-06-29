@@ -1,21 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: 24HeuresINSA # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://www.24heures.org
+  - name: Overbookd frontend
+    url: https://overbookd.24heures.org
+  - name: Overbookd backend
+    url: https://overbookd.24heures.org/api/config
+  - name: Preprod Overbookd frontend
+    url: https://preprod.overbookd.24heures.org
+  - name: Preprod Overbookd backend
+    url: https://preprod.overbookd.24heures.org/api/config
+  - name: Courses Website
+    url: https://courses.24heures.org
+  - name: Courses24maker
+    url: https://courses24maker.24heures.org
+  - name: Assomaker
+    url: https://assomaker.24heures.org
+  - name: test
+    url: https://test.24heures.org
+
+assignees: # Users to assign downtime issues (optional)
+  - titouan-joseph
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: upptime.24heures.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
