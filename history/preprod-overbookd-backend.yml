@@ -1,7 +1,7 @@
 url: https://preprod.overbookd.24heures.org/api/config
-status: down
-code: 503
-responseTime: 386
-lastUpdated: 2022-08-18T10:18:34.849Z
+status: up
+code: 200
+responseTime: 867
+lastUpdated: 2022-08-18T10:41:04.854Z
 startTime: Wed Jun 29 2022 17:10:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
