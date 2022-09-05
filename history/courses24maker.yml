@@ -1,7 +1,7 @@
 url: https://courses24maker.24heures.org
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2022-09-05T11:16:30.254Z
+status: down
+code: 503
+responseTime: 1106
+lastUpdated: 2022-09-05T19:22:43.226Z
 startTime: Wed Jun 29 2022 17:10:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
