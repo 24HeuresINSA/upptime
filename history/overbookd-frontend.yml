@@ -1,7 +1,7 @@
 url: https://overbookd.24heures.org
-status: down
-code: 502
-responseTime: 501
-lastUpdated: 2022-09-07T22:13:55.959Z
+status: up
+code: 200
+responseTime: 790
+lastUpdated: 2022-09-07T22:37:24.228Z
 startTime: Wed Jun 29 2022 17:10:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
