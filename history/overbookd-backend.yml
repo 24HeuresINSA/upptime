@@ -1,7 +1,7 @@
-url: https://overbookd.24heures.org/api/config
-status: down
-code: 404
-responseTime: 172
-lastUpdated: 2022-10-06T14:37:13.788Z
+url: https://overbookd.24heures.org/api/
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2022-10-06T14:44:10.152Z
 startTime: Wed Jun 29 2022 17:10:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
