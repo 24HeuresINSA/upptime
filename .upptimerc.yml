@@ -15,12 +15,10 @@ sites:
     url: https://preprod.overbookd.24heures.org
   - name: Preprod Overbookd backend
     url: https://preprod.overbookd.24heures.org/api/config
-  - name: Courses Website
-    url: https://courses.24heures.org
-  - name: Courses24maker
-    url: https://courses24maker.24heures.org
-  - name: Assomaker
-    url: https://assomaker.24heures.org
+  - name: cetait mieux avant Overbookd frontend
+    url: https://cetaitmieuxavant.24heures.org
+  - name: cetait mieux avant Overbookd backend
+    url: https://cetaitmieuxavant.24heures.org/api/config
 
 assignees: # Users to assign downtime issues (optional)
   - titouan-joseph
