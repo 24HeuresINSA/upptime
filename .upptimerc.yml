@@ -10,11 +10,11 @@ sites:
   - name: Overbookd frontend
     url: https://overbookd.24heures.org
   - name: Overbookd backend
-    url: https://overbookd.24heures.org/api/config
+    url: https://overbookd.24heures.org/api/
   - name: Preprod Overbookd frontend
     url: https://preprod.overbookd.24heures.org
   - name: Preprod Overbookd backend
-    url: https://preprod.overbookd.24heures.org/api/config
+    url: https://preprod.overbookd.24heures.org/api/
   - name: cetait mieux avant Overbookd frontend
     url: https://cetaitmieuxavant.24heures.org
   - name: cetait mieux avant Overbookd backend
