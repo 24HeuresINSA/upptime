@@ -440,19 +440,19 @@
     "url": "https://cetaitmieuxavant.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/cetaitmieuxavant.24heures.org.ico",
     "slug": "cetait-mieux-avant-overbookd-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 773,
-    "timeWeek": 837,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 820,
+    "timeDay": 736,
+    "timeWeek": 820,
+    "timeMonth": 820,
+    "timeYear": 820,
     "dailyMinutesDown": {
-      "2022-10-11": 0
+      "2022-10-11": 12
     }
   },
   {
@@ -460,19 +460,19 @@
     "url": "https://cetaitmieuxavant.24heures.org/api/config",
     "icon": "https://icons.duckduckgo.com/ip3/cetaitmieuxavant.24heures.org.ico",
     "slug": "cetait-mieux-avant-overbookd-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 575,
-    "timeWeek": 354,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 355,
+    "timeDay": 468,
+    "timeWeek": 355,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2022-10-11": 0
+      "2022-10-11": 12
     }
   }
 ]
