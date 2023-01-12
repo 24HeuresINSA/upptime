@@ -19,6 +19,12 @@ sites:
     url: https://cetaitmieuxavant.24heures.org
   - name: cetait mieux avant Overbookd backend
     url: https://cetaitmieuxavant.24heures.org/api/config
+  - name: OverRun backend
+    url: https://overrun.24heures.org/api/v1
+  - name: OverRun frontend User
+    url: https://overrun.24heures.org
+  - name: OverRun frontend Admin
+    url: https://overrun.24heures.org/admin
 
 assignees: # Users to assign downtime issues (optional)
   - titouan-joseph
