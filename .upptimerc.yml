@@ -15,6 +15,8 @@ sites:
     url: https://preprod.overbookd.24heures.org
   - name: Preprod Overbookd backend
     url: https://preprod.overbookd.24heures.org/api/
+    expectedStatusCodes:
+      - 200
   - name: cetait mieux avant Overbookd frontend
     url: https://cetaitmieuxavant.24heures.org
   - name: cetait mieux avant Overbookd backend
