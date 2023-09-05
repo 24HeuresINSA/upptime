@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 92,
-    "timeWeek": 112,
-    "timeMonth": 125,
+    "timeDay": 95,
+    "timeWeek": 86,
+    "timeMonth": 126,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2023-07-21": 18,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 2426,
-    "timeDay": 2089,
-    "timeWeek": 1998,
-    "timeMonth": 2173,
-    "timeYear": 2283,
+    "timeDay": 2134,
+    "timeWeek": 1987,
+    "timeMonth": 2179,
+    "timeYear": 2280,
     "dailyMinutesDown": {
       "2023-04-23": 106,
       "2023-04-22": 68,
@@ -64,8 +64,7 @@
       "2022-09-10": 23,
       "2022-09-09": 29,
       "2022-09-08": 24,
-      "2022-09-07": 23,
-      "2022-09-05": 70
+      "2022-09-07": 23
     }
   },
   {
@@ -80,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 743,
-    "timeDay": 793,
-    "timeWeek": 704,
+    "timeDay": 856,
+    "timeWeek": 740,
     "timeMonth": 784,
     "timeYear": 713,
     "dailyMinutesDown": {
@@ -111,8 +110,7 @@
       "2022-09-10": 23,
       "2022-09-09": 29,
       "2022-09-08": 23,
-      "2022-09-07": 23,
-      "2022-09-05": 70
+      "2022-09-07": 23
     }
   },
   {
@@ -121,14 +119,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/overbookd.24heures.org.ico",
     "slug": "overbookd-backend",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 215,
-    "timeDay": 123,
-    "timeWeek": 114,
+    "timeDay": 134,
+    "timeWeek": 118,
     "timeMonth": 128,
     "timeYear": 151,
     "dailyMinutesDown": {
@@ -156,8 +154,7 @@
       "2022-09-10": 23,
       "2022-09-09": 29,
       "2022-09-08": 23,
-      "2022-09-07": 23,
-      "2022-09-05": 69
+      "2022-09-07": 23
     }
   },
   {
@@ -172,8 +169,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.31%",
     "time": 730,
-    "timeDay": 673,
-    "timeWeek": 690,
+    "timeDay": 713,
+    "timeWeek": 720,
     "timeMonth": 746,
     "timeYear": 698,
     "dailyMinutesDown": {
@@ -204,8 +201,7 @@
       "2022-09-10": 23,
       "2022-09-09": 29,
       "2022-09-08": 23,
-      "2022-09-07": 23,
-      "2022-09-05": 69
+      "2022-09-07": 23
     }
   },
   {
@@ -214,16 +210,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/preprod.overbookd.24heures.org.ico",
     "slug": "preprod-overbookd-backend",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "98.12%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.64%",
-    "time": 342,
-    "timeDay": 115,
-    "timeWeek": 112,
+    "time": 341,
+    "timeDay": 122,
+    "timeWeek": 115,
     "timeMonth": 127,
-    "timeYear": 236,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2023-09-04": 27,
       "2023-04-23": 106,
@@ -260,8 +256,7 @@
       "2022-09-10": 23,
       "2022-09-09": 29,
       "2022-09-08": 23,
-      "2022-09-07": 23,
-      "2022-09-05": 68
+      "2022-09-07": 23
     }
   },
   {
@@ -276,9 +271,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 660,
-    "timeDay": 699,
-    "timeWeek": 662,
-    "timeMonth": 765,
+    "timeDay": 754,
+    "timeWeek": 665,
+    "timeMonth": 764,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2023-04-23": 106,
@@ -297,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 253,
-    "timeDay": 120,
-    "timeWeek": 112,
-    "timeMonth": 129,
-    "timeYear": 253,
+    "time": 252,
+    "timeDay": 132,
+    "timeWeek": 116,
+    "timeMonth": 128,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2023-06-11": 18,
       "2023-04-23": 452,
@@ -321,8 +316,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 710,
-    "timeDay": 744,
-    "timeWeek": 681,
+    "timeDay": 748,
+    "timeWeek": 684,
     "timeMonth": 758,
     "timeYear": 710,
     "dailyMinutesDown": {
@@ -343,8 +338,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 124,
-    "timeDay": 125,
-    "timeWeek": 115,
+    "timeDay": 135,
+    "timeWeek": 119,
     "timeMonth": 129,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -365,8 +360,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 124,
-    "timeDay": 124,
-    "timeWeek": 115,
+    "timeDay": 132,
+    "timeWeek": 119,
     "timeMonth": 130,
     "timeYear": 124,
     "dailyMinutesDown": {
