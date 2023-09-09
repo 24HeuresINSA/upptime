@@ -15,6 +15,7 @@ sites:
     url: https://preprod.overbookd.24heures.org
   - name: Preprod Overbookd backend
     url: https://preprod.overbookd.24heures.org/api/
+    __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   - name: cetait mieux avant Overbookd frontend
     url: https://cetaitmieuxavant.24heures.org
   - name: cetait mieux avant Overbookd backend
