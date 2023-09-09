@@ -11,6 +11,7 @@ sites:
     url: https://overbookd.24heures.org
   - name: Overbookd backend
     url: https://overbookd.24heures.org/api/
+    __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   - name: Preprod Overbookd frontend
     url: https://preprod.overbookd.24heures.org
   - name: Preprod Overbookd backend
@@ -19,7 +20,8 @@ sites:
   - name: cetait mieux avant Overbookd frontend
     url: https://cetaitmieuxavant.24heures.org
   - name: cetait mieux avant Overbookd backend
-    url: https://cetaitmieuxavant.24heures.org/api/config
+    url: https://cetaitmieuxavant.24heures.org/api/
+    __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   - name: OverRun backend
     url: https://overrun.24heures.org/api/v1
   - name: OverRun frontend User
