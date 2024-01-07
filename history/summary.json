@@ -25,9 +25,9 @@
     "url": "https://www.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.24heures.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 1613,
     "timeYear": 1950,
     "dailyMinutesDown": {
+      "2024-01-07": 0,
       "2023-04-23": 106,
       "2023-04-22": 68
     }
