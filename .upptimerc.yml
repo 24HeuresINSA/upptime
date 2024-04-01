@@ -28,6 +28,15 @@ sites:
     url: https://overrun.24heures.org
   - name: OverRun frontend Admin
     url: https://overrun.24heures.org/admin
+  - name: Grafana
+    url: https://gestion.24heures.org/grafana
+  - name: Wiki
+    url: https://wiki.24heures.org
+  - name: OverSales frontend
+    url: https://oversales.24heures.org
+  - name: OverSales backend
+    url: https://oversales.24heures.org/api
+    __dangerous__body_down_if_text_missing: 'Hello from OverSales backend'
 
 assignees: # Users to assign downtime issues (optional)
   - titouan-joseph
