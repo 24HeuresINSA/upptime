@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 107,
-    "timeDay": 363,
-    "timeWeek": 159,
-    "timeMonth": 118,
+    "time": 108,
+    "timeDay": 293,
+    "timeWeek": 188,
+    "timeMonth": 124,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-07-21": 18,
@@ -31,16 +31,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1896,
-    "timeDay": 1285,
-    "timeWeek": 1525,
-    "timeMonth": 1677,
-    "timeYear": 1792,
+    "time": 1895,
+    "timeDay": 1456,
+    "timeWeek": 1505,
+    "timeMonth": 1678,
+    "timeYear": 1790,
     "dailyMinutesDown": {
       "2024-02-01": 18,
       "2024-01-27": 112,
-      "2024-01-07": 22,
-      "2023-04-23": 106
+      "2024-01-07": 22
     }
   },
   {
@@ -55,13 +54,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 720,
-    "timeDay": 557,
-    "timeWeek": 684,
-    "timeMonth": 739,
+    "timeDay": 713,
+    "timeWeek": 683,
+    "timeMonth": 737,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2024-02-01": 18,
-      "2023-04-23": 106
+      "2024-02-01": 18
     }
   },
   {
@@ -76,13 +74,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 117,
-    "timeDay": 85,
-    "timeWeek": 94,
+    "timeDay": 106,
+    "timeWeek": 96,
     "timeMonth": 111,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-02-01": 18,
-      "2023-04-23": 106
+      "2024-02-01": 18
     }
   },
   {
@@ -97,17 +94,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 711,
-    "timeDay": 567,
-    "timeWeek": 810,
-    "timeMonth": 751,
-    "timeYear": 736,
+    "timeDay": 700,
+    "timeWeek": 808,
+    "timeMonth": 748,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2024-01-25": 23,
       "2023-11-30": 41,
       "2023-11-29": 10,
       "2023-11-09": 18,
-      "2023-09-04": 27,
-      "2023-04-23": 106
+      "2023-09-04": 27
     }
   },
   {
@@ -122,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 151,
-    "timeDay": 90,
-    "timeWeek": 274,
+    "timeDay": 104,
+    "timeWeek": 275,
     "timeMonth": 167,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2024-03-19": 18,
       "2024-02-20": 132,
@@ -139,8 +135,7 @@
       "2023-11-29": 10,
       "2023-10-17": 336,
       "2023-10-04": 121,
-      "2023-09-04": 27,
-      "2023-04-23": 106
+      "2023-09-04": 27
     }
   },
   {
@@ -154,14 +149,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 684,
-    "timeDay": 440,
-    "timeWeek": 593,
-    "timeMonth": 684,
+    "time": 683,
+    "timeDay": 652,
+    "timeWeek": 595,
+    "timeMonth": 687,
     "timeYear": 700,
-    "dailyMinutesDown": {
-      "2023-04-23": 106
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cetait mieux avant Overbookd backend",
@@ -175,13 +168,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 184,
-    "timeDay": 84,
-    "timeWeek": 95,
+    "timeDay": 103,
+    "timeWeek": 96,
     "timeMonth": 111,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-06-11": 18,
-      "2023-04-23": 452
+      "2023-06-11": 18
     }
   },
   {
@@ -196,13 +188,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 704,
-    "timeDay": 632,
-    "timeWeek": 637,
-    "timeMonth": 707,
+    "timeDay": 664,
+    "timeWeek": 651,
+    "timeMonth": 711,
     "timeYear": 703,
-    "dailyMinutesDown": {
-      "2023-04-23": 106
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OverRun frontend User",
@@ -216,13 +206,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 120,
-    "timeDay": 87,
-    "timeWeek": 97,
+    "timeDay": 104,
+    "timeWeek": 99,
     "timeMonth": 113,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-04-23": 107
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OverRun frontend Admin",
@@ -236,13 +224,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 120,
-    "timeDay": 87,
-    "timeWeek": 96,
+    "timeDay": 105,
+    "timeWeek": 99,
     "timeMonth": 113,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-04-23": 107
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grafana",
@@ -255,11 +241,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 680,
-    "timeWeek": 751,
-    "timeMonth": 807,
-    "timeYear": 807,
+    "time": 812,
+    "timeDay": 912,
+    "timeWeek": 767,
+    "timeMonth": 812,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   },
   {
@@ -273,11 +259,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 624,
-    "timeWeek": 614,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "time": 652,
+    "timeDay": 718,
+    "timeWeek": 623,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -291,11 +277,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 527,
-    "timeWeek": 534,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "time": 539,
+    "timeDay": 460,
+    "timeWeek": 522,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {}
   },
   {
@@ -310,8 +296,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 85,
-    "timeWeek": 94,
+    "timeDay": 108,
+    "timeWeek": 97,
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {}
