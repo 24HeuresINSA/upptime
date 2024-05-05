@@ -1,7 +1,7 @@
 url: https://www.24heures.org
-status: up
-code: 200
-responseTime: 1940
-lastUpdated: 2024-05-04T23:11:11.575Z
+status: down
+code: 500
+responseTime: 809
+lastUpdated: 2024-05-05T13:56:42.368Z
 startTime: 2022-06-29T17:10:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
