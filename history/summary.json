@@ -26,18 +26,19 @@
     "url": "https://www.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.24heures.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1837,
+    "time": 1836,
     "timeDay": 1349,
     "timeWeek": 1474,
     "timeMonth": 1505,
     "timeYear": 1747,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-05-05": 20,
       "2024-02-01": 18,
       "2024-01-27": 112,
@@ -257,10 +258,10 @@
     "url": "https://wiki.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.24heures.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
@@ -268,7 +269,9 @@
     "timeWeek": 596,
     "timeMonth": 633,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-22": 1
+    }
   },
   {
     "name": "OverSales frontend",
