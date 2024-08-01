@@ -1,7 +1,7 @@
 url: https://overbookd.24heures.org/api/
-status: down
+status: up
 code: 200
-responseTime: 798
-lastUpdated: 2024-08-01T08:57:14.221Z
+responseTime: 104
+lastUpdated: 2024-08-01T10:25:28.062Z
 startTime: 2022-06-29T17:10:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
