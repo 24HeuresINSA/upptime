@@ -1,7 +1,7 @@
-url: https://gestion.24heures.org/grafana
+url: https://gestion.24heures.org/grafana/login
 status: up
 code: 200
-responseTime: 794
-lastUpdated: 2024-08-03T15:18:35.601Z
+responseTime: 839
+lastUpdated: 2024-08-03T21:56:47.249Z
 startTime: 2024-04-01T12:07:53.135Z
 generator: Upptime <https://github.com/upptime/upptime>
