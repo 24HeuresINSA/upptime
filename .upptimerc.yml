@@ -55,6 +55,10 @@ sites:
   - name: OverSales backend
     url: https://oversales.24heures.org/api
     __dangerous__body_down_if_text_missing: 'Hello from OverSales backend'
+  - name: Zitadel
+    url: https://zitadel.24heures.org/debug/healthz
+    expectedStatusCodes:
+      - 200
 
 assignees: # Users to assign downtime issues (optional)
   - titouan-joseph
