@@ -9,31 +9,49 @@ sites:
     url: https://www.24heures.org
   - name: Overbookd frontend
     url: https://overbookd.24heures.org
+    expectedStatusCodes:
+      - 200
   - name: Overbookd backend
     url: https://overbookd.24heures.org/api/
     __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   - name: Preprod Overbookd frontend
     url: https://preprod.overbookd.24heures.org
+    expectedStatusCodes:
+      - 200
   - name: Preprod Overbookd backend
     url: https://preprod.overbookd.24heures.org/api/
     __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   - name: cetait mieux avant Overbookd frontend
     url: https://cetaitmieuxavant.24heures.org
+    expectedStatusCodes:
+      - 200
   - name: cetait mieux avant Overbookd backend
     url: https://cetaitmieuxavant.24heures.org/api/
     __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   - name: OverRun backend
-    url: https://overrun.24heures.org/api/v1
+    url: https://overrun.24heures.org/api/v1/
+    expectedStatusCodes:
+      - 200
   - name: OverRun frontend User
     url: https://overrun.24heures.org
+    expectedStatusCodes:
+      - 200
   - name: OverRun frontend Admin
     url: https://overrun.24heures.org/admin
+    expectedStatusCodes:
+      - 200
   - name: Grafana
-    url: https://gestion.24heures.org/grafana
+    url: https://gestion.24heures.org/grafana/login
+    expectedStatusCodes:
+      - 200
   - name: Wiki
     url: https://wiki.24heures.org
+    expectedStatusCodes:
+      - 200
   - name: OverSales frontend
     url: https://oversales.24heures.org
+    expectedStatusCodes:
+      - 200
   - name: OverSales backend
     url: https://oversales.24heures.org/api
     __dangerous__body_down_if_text_missing: 'Hello from OverSales backend'
