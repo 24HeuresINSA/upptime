@@ -130,7 +130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/preprod.overbookd.24heures.org.ico",
     "slug": "preprod-overbookd-backend",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
@@ -161,11 +161,11 @@
     "url": "https://cetaitmieuxavant.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/cetaitmieuxavant.24heures.org.ico",
     "slug": "cetait-mieux-avant-overbookd-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 713,
     "timeDay": 584,
@@ -173,6 +173,7 @@
     "timeMonth": 780,
     "timeYear": 707,
     "dailyMinutesDown": {
+      "2024-10-30": 2,
       "2024-08-03": 136
     }
   },
@@ -181,10 +182,10 @@
     "url": "https://cetaitmieuxavant.24heures.org/api/",
     "icon": "https://icons.duckduckgo.com/ip3/cetaitmieuxavant.24heures.org.ico",
     "slug": "cetait-mieux-avant-overbookd-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 116,
@@ -193,6 +194,7 @@
     "timeMonth": 118,
     "timeYear": 114,
     "dailyMinutesDown": {
+      "2024-10-30": 2,
       "2024-08-03": 189
     }
   },
@@ -201,10 +203,10 @@
     "url": "https://overrun.24heures.org/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/overrun.24heures.org.ico",
     "slug": "over-run-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 685,
@@ -213,6 +215,7 @@
     "timeMonth": 664,
     "timeYear": 674,
     "dailyMinutesDown": {
+      "2024-10-30": 2,
       "2024-08-03": 136
     }
   },
@@ -221,10 +224,10 @@
     "url": "https://overrun.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/overrun.24heures.org.ico",
     "slug": "over-run-frontend-user",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 116,
@@ -233,6 +236,7 @@
     "timeMonth": 120,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2024-10-30": 2,
       "2024-08-03": 136
     }
   },
@@ -241,10 +245,10 @@
     "url": "https://overrun.24heures.org/admin",
     "icon": "https://icons.duckduckgo.com/ip3/overrun.24heures.org.ico",
     "slug": "over-run-frontend-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 116,
@@ -253,6 +257,7 @@
     "timeMonth": 120,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2024-10-30": 1,
       "2024-08-03": 136
     }
   },
@@ -261,10 +266,10 @@
     "url": "https://gestion.24heures.org/grafana/login",
     "icon": "https://icons.duckduckgo.com/ip3/gestion.24heures.org.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 805,
@@ -273,6 +278,7 @@
     "timeMonth": 854,
     "timeYear": 805,
     "dailyMinutesDown": {
+      "2024-10-30": 1,
       "2024-08-03": 124
     }
   },
@@ -349,9 +355,9 @@
     "url": "https://zitadel.24heures.org/debug/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/zitadel.24heures.org.ico",
     "slug": "zitadel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -360,6 +366,8 @@
     "timeWeek": 592,
     "timeMonth": 554,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 1
+    }
   }
 ]
