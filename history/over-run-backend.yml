@@ -1,7 +1,7 @@
 url: https://overrun.24heures.org/api/v1/
-status: up
-code: 200
-responseTime: 622
-lastUpdated: 2025-03-04T23:13:39.944Z
+status: down
+code: 502
+responseTime: 1414
+lastUpdated: 2025-03-05T09:54:16.589Z
 startTime: 2023-01-12T08:01:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
