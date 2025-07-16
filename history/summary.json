@@ -8,12 +8,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 111,
     "timeDay": 76,
     "timeWeek": 116,
-    "timeMonth": 118,
+    "timeMonth": 109,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2025-07-01": 16,
@@ -277,10 +277,10 @@
     "url": "https://wiki.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.24heures.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 712,
@@ -289,6 +289,7 @@
     "timeMonth": 780,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2025-07-16": 1,
       "2025-04-17": 66,
       "2024-08-03": 136
     }
