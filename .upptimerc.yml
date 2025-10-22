@@ -35,7 +35,9 @@ sites:
 ## PROD ##
   - name: Overbookd frontend
     url: https://overbookd.24heures.org
-    __dangerous__body_down_if_text_missing: "Bienvenue aux 24h de l'INSA 👋"
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
   
   - name: Overbookd backend
     url: https://overbookd.24heures.org/api/
@@ -44,7 +46,9 @@ sites:
 ## PREPROD ##
   - name: Preprod Overbookd frontend
     url: https://preprod.overbookd.24heures.org
-    __dangerous__body_down_if_text_missing: "Bienvenue aux 24h de l'INSA 👋"
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
 
   - name: Preprod Overbookd backend
     url: https://preprod.overbookd.24heures.org/api/
@@ -53,7 +57,9 @@ sites:
 ## CETAIT MIEUX AVANT ##
   - name: cetait mieux avant Overbookd frontend
     url: https://cetaitmieuxavant.24heures.org
-    __dangerous__body_down_if_text_missing: "Bienvenue aux 24h de l'INSA 👋"
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
   
   - name: cetait mieux avant Overbookd backend
     url: https://cetaitmieuxavant.24heures.org/api/
@@ -65,7 +71,9 @@ sites:
 ## PROD ##
   - name: OverRun frontend
     url: https://overrun.24heures.org
-    __dangerous__body_down_if_text_missing: "OverRun"
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
   
   - name: OverRun backend
     url: https://overrun.24heures.org/rest-api/
@@ -74,7 +82,9 @@ sites:
 ## PREPROD ##
   - name: Preprod OverRun frontend
     url: https://preprod.overrun.24heures.org
-    __dangerous__body_down_if_text_missing: "OverRun"
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
 
   - name: Preprod OverRun backend
     url: https://preprod.overrun.24heures.org/rest-api/
@@ -85,7 +95,9 @@ sites:
 ####################  
   - name: OverSales frontend
     url: https://oversales.24heures.org
-    __dangerous__body_down_if_text_missing: "Oversales"
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
   
   - name: OverSales backend
     url: https://oversales.24heures.org/api
@@ -96,12 +108,14 @@ sites:
 # Other Services
 ####################
   - name: Grafana
-    url: https://gestion.24heures.org/grafana/login
-    __dangerous__body_down_if_text_missing: "Welcome to Grafana"
+    url: https://gestion.24heures.org/grafana/healthz
+    __dangerous__body_down_if_text_missing: "Ok"
   
   - name: Wiki
-    url: https://wiki.24heures.org
-    __dangerous__body_down_if_text_missing: "Wiki 24h de l'INSA"
+    url: https://wiki.24heures.org/MediaWiki:Connexion_n%C3%A9cessaire
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
   
   - name: Zitadel
     url: https://zitadel.24heures.org/debug/healthz
