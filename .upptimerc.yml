@@ -5,8 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Website
+
+  - name: Website - from globalping (california)
     url: https://www.24heures.org
+    type: globalping
+    location: california
+
+  - name: Website - from globalping (berlin)
+    url: https://www.24heures.org
+    type: globalping
+    location: berlin
+
+  - name: Website - from globalping (paris)
+    url: https://www.24heures.org
+    type: globalping
+    location: paris
+
   - name: Overbookd frontend
     url: https://overbookd.24heures.org
     expectedStatusCodes:
