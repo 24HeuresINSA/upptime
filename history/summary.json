@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 109,
-    "timeDay": 137,
-    "timeWeek": 117,
-    "timeMonth": 102,
+    "timeDay": 140,
+    "timeWeek": 120,
+    "timeMonth": 103,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-10-20": 15,
@@ -34,7 +34,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.52%",
+    "uptimeYear": "81.55%",
     "time": 1084,
     "timeDay": 853,
     "timeWeek": 915,
@@ -289,7 +289,7 @@
     "timeMonth": 951,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2025-10-22": 362
+      "2025-10-22": 363
     }
   },
   {
@@ -299,7 +299,7 @@
     "slug": "over-run-backend",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "73.99%",
+    "uptimeDay": "73.95%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.91%",
