@@ -288,19 +288,19 @@
     "url": "https://preprod.overrun.24heures.org",
     "icon": "https://icons.duckduckgo.com/ip3/preprod.overrun.24heures.org.ico",
     "slug": "preprod-over-run-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 646,
-    "timeDay": 658,
-    "timeWeek": 733,
-    "timeMonth": 694,
+    "timeDay": 665,
+    "timeWeek": 728,
+    "timeMonth": 693,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2026-01-19": 1
+      "2026-01-19": 24
     }
   },
   {
