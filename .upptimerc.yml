@@ -14,21 +14,6 @@ sites:
   - name: Strapi
     url: https://strapi.24heures.org
 
-  - name: Website - from globalping (california)
-    url: https://www.24heures.org
-    type: globalping
-    location: california
-
-  - name: Website - from globalping (berlin)
-    url: https://www.24heures.org
-    type: globalping
-    location: berlin
-
-  - name: Website - from globalping (paris)
-    url: https://www.24heures.org
-    type: globalping
-    location: paris
-
 ####################
 # Overbookd Services
 ####################
