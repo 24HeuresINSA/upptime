@@ -1,7 +1,7 @@
 url: https://zitadel.24heures.org/debug/healthz
 status: up
 code: 200
-responseTime: 495
-lastUpdated: 2026-02-14T23:20:25.822Z
+responseTime: 463
+lastUpdated: 2026-02-15T23:22:23.765Z
 startTime: 2024-08-03T21:56:49.437Z
 generator: Upptime <https://github.com/upptime/upptime>
