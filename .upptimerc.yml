@@ -36,7 +36,7 @@ sites:
     maxRedirects: 0
 
   - name: Preprod Overbookd backend
-    url: https://preprod.overbookd.24heures.org/api/
+    url: https://preprod.overbookd.24heures.org/ob-api/
     __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   
 ## CETAIT MIEUX AVANT ##
