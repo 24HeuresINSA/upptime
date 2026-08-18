@@ -1,7 +1,7 @@
 url: https://overrun.24heures.org/rest-api/
-status: down
-code: 404
-responseTime: 405
-lastUpdated: 2026-08-18T09:16:52.514Z
+status: up
+code: 200
+responseTime: 308
+lastUpdated: 2026-08-18T09:53:00.315Z
 startTime: 2023-01-12T08:01:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
