@@ -1,7 +1,7 @@
 url: https://gestion.24heures.org/grafana/healthz
 status: up
 code: 200
-responseTime: 594
-lastUpdated: 2026-08-27T04:12:24.759Z
+responseTime: 577
+lastUpdated: 2026-08-28T06:44:29.803Z
 startTime: 2024-04-01T12:07:53.135Z
 generator: Upptime <https://github.com/upptime/upptime>
