@@ -25,7 +25,7 @@ sites:
     maxRedirects: 0
   
   - name: Overbookd backend
-    url: https://overbookd.24heures.org/api/
+    url: https://overbookd.24heures.org/ob-api/
     __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   
 ## PREPROD ##
@@ -47,7 +47,7 @@ sites:
     maxRedirects: 0
   
   - name: cetait mieux avant Overbookd backend
-    url: https://cetaitmieuxavant.24heures.org/api/
+    url: https://cetaitmieuxavant.24heures.org/ob-api/
     __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
   
 ####################
@@ -88,6 +88,15 @@ sites:
     url: https://oversales.24heures.org/api
     __dangerous__body_down_if_text_missing: 'Hello from OverSales backend'
 
+####################
+# OverView Services
+####################  
+  - name: OverView
+    url: https://overview.24heures.org/
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+
 
 ####################
 # Other Services
@@ -105,6 +114,13 @@ sites:
   - name: Zitadel
     url: https://zitadel.24heures.org/debug/healthz
     __dangerous__body_down_if_text_missing: "ok"
+
+  - name: Vault
+    url: https://vault.24heures.org/alive
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    
 
 assignees:
   - titouan-joseph
