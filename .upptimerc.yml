@@ -26,7 +26,7 @@ sites:
   
   - name: Overbookd backend
     url: https://overbookd.24heures.org/ob-api/
-    __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
+    __dangerous__body_down_if_text_missing: 'Hello from overbookd api'
   
 ## PREPROD ##
   - name: Preprod Overbookd frontend
@@ -37,7 +37,7 @@ sites:
 
   - name: Preprod Overbookd backend
     url: https://preprod.overbookd.24heures.org/ob-api/
-    __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
+    __dangerous__body_down_if_text_missing: 'Hello from overbookd api'
   
 ## CETAIT MIEUX AVANT ##
   - name: cetait mieux avant Overbookd frontend
@@ -48,7 +48,7 @@ sites:
   
   - name: cetait mieux avant Overbookd backend
     url: https://cetaitmieuxavant.24heures.org/ob-api/
-    __dangerous__body_down_if_text_missing: 'Hello from overbookd backend'
+    __dangerous__body_down_if_text_missing: 'Hello from overbookd api'
   
 ####################
 # OverRun Services
